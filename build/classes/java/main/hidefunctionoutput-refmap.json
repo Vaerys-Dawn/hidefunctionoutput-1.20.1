@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/github/vaerys/mixin/FunctionCommandMixin": {
+      "Lnet/minecraft/server/command/ServerCommandSource;sendFeedback(Ljava/util/function/Supplier;Z)V": "Lnet/minecraft/class_2168;method_9226(Ljava/util/function/Supplier;Z)V",
+      "execute": "Lnet/minecraft/class_3062;method_13381(Lnet/minecraft/class_2168;Ljava/util/Collection;)I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/github/vaerys/mixin/FunctionCommandMixin": {
+        "Lnet/minecraft/server/command/ServerCommandSource;sendFeedback(Ljava/util/function/Supplier;Z)V": "Lnet/minecraft/class_2168;method_9226(Ljava/util/function/Supplier;Z)V",
+        "execute": "Lnet/minecraft/class_3062;method_13381(Lnet/minecraft/class_2168;Ljava/util/Collection;)I"
+      }
+    }
+  }
+}
